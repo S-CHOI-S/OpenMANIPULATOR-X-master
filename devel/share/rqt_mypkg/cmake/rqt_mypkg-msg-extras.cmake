@@ -1,0 +1,2 @@
+set(rqt_mypkg_MESSAGE_FILES "")
+set(rqt_mypkg_SERVICE_FILES "/home/choisol/catkin_ws/src/rqt_mypkg/srv/ArmService.srv;/home/choisol/catkin_ws/src/rqt_mypkg/srv/KillService.srv;/home/choisol/catkin_ws/src/rqt_mypkg/srv/PosCtrlService.srv;/home/choisol/catkin_ws/src/rqt_mypkg/srv/DockService.srv;/home/choisol/catkin_ws/src/rqt_mypkg/srv/HoverService.srv;/home/choisol/catkin_ws/src/rqt_mypkg/srv/TiltService.srv;/home/choisol/catkin_ws/src/rqt_mypkg/srv/ManipulatorService.srv")
